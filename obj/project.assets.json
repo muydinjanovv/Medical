@@ -2638,19 +2638,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/azizbekboboyev/.nuget/packages/": {}
+    "C:\\Users\\Muhammadjon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/Medical.csproj",
+      "projectUniqueName": "c:\\developer\\Medical\\Medical.csproj",
       "projectName": "Medical",
-      "projectPath": "/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/Medical.csproj",
-      "packagesPath": "/Users/azizbekboboyev/.nuget/packages/",
-      "outputPath": "/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/obj/",
+      "projectPath": "c:\\developer\\Medical\\Medical.csproj",
+      "packagesPath": "C:\\Users\\Muhammadjon\\.nuget\\packages\\",
+      "outputPath": "c:\\developer\\Medical\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/azizbekboboyev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Muhammadjon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2715,7 +2715,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
