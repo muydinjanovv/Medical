@@ -8,41 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Medical
 build_property.RootNamespace = Medical
-build_property.ProjectDir = /Users/azizbekboboyev/Developer/vscode/hackathon/Medical/
+build_property.ProjectDir = C:\developer\medical\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/azizbekboboyev/Developer/vscode/hackathon/Medical
+build_property.MSBuildProjectDirectory = C:\developer\medical
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/App.razor]
+[C:/developer/medical/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/developer/medical/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[C:/developer/medical/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/_Imports.razor]
+[C:/developer/medical/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-kizhd9bwpd
+[C:/developer/medical/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xt2p7tvlt4
 
-[/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/developer/medical/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-yv8m5wx4tm
+
+[C:/developer/medical/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/Pages/_Host.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+[C:/developer/medical/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/azizbekboboyev/Developer/vscode/hackathon/Medical/Pages/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
+[C:/developer/medical/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
